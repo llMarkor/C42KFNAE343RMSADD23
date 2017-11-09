@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Horoscopo</string>
+    <string name="nombre001">Introduzca su Nick</string>
+    <string name="contra001">Introduzca su Contraseña</string>
+    <string name="nombre002">Introduzca su Nuevo Nick</string>
+    <string name="contra002">Introduzca su Nueva Contraseña</string>
+    <string name="descGallo">Habrá un buen ambiente para ustedes, sobretodo si creen firmemente
+        que los tiempos difíciles quedaron atrás. Será un año para sacar beneficios si te enfocas
+        en tus tareas. No obstante, este año no estará libre de conflicto y deberás actuar con sabiduría
+        para solucionarlos.</string>
+    <string name="descRata">Los nacidos bajo este animal se verán beneficiados con la llegada del Gallo,
+        aunque tenderán a sentir cierta melancolía producto de conflictos en el área afectiva. Verán su
+        círculo social aumentado y con mucha diversión, así como también tendrán la posibilidad de contraer matrimonio. </string>
+    <string name="descBufalo">El Buey también se verá beneficiado este año y será excelente para abrirse
+        a nuevas ideas y formas de ver la vida. Después de pasar por varios años difíciles podrá al fin
+        cosechar los frutos de su trabajo y esfuerzo, pero deberán mantener en reserva sus logros y éxito,
+        ya que serán blanco de envidias. </string>
+    <string name="descTigre">Si bien este año tendrá varias sacudidas, será mucho más fácil de
+        superar que el del mono, incluso con la posibilidad de triunfar en todo lo que se propongan,
+        siempre que la prudencia no les falte, ya que será algo usual en este período. </string>
+    <string name="descConejo">Deberás prestar atención a quienes te rodean, evita sociedades a largo plazo,
+        a menos que estés completamente seguro de quien tienes al lado. Tendrás muchas metas que cumplir en
+        plazos acotados, pero deberás bajar tus niveles de estrés y ansiedad y pensar bien en lo que tú
+        quieres para tu vida.</string>
+    <string name="descDragon">Deberán ocuparse de corregir rápidamente los errores, sobretodo a nivel
+        de negocios, de lo contrario se arriesgarán a pérdidas de dinero. Si lo que buscan es sacar
+        adelante proyectos deberán buscar apoyo de personas influyentes, eso los ayudará a recuperarse y avanzar. </string>
+    <string name="descSerpiente">Los proyectos a largo plazo serán los más beneficiosos. Pero deberás tener
+        la capacidad de cuidar tu dinero y evitar gastos innecesarios, de eso dependerá tu bienestar económico
+        para los próximos años. </string>
+    <string name="descCaballo"> No será un año del todo fácil para los caballos y las contradicciones estarán a la orden del día.
+     tendrán que poner mayor esfuerzo si lo que buscan es tener éxito. Deberán abocarse a trabajar y evitar la comodidad.
+        Por otra parte deberán controlar su irá e impulsos ante los conflictos que surjan en su vida y principalmente en
+        lo profesional.</string>
+    <string name="descCabra">Este año podrás mejorar tu imagen, teniendo grandes posibilidades de aumento
+        en sus ingresos. Esto irá de la mano con la confianza que tengas de ti, por lo tanto siéntete segura
+        de tus capacidades.</string>
+    <string name="descMono">Deberán cuidarse de su excesivo optimismo, sobretodo ante lo profesional
+        y no dar todo por hecho ni abusar de quien tiene a su lado. Eso ayudará a obtener consolidación
+        y salir ágilmente de los obstáculos que se presenten.</string>
+    <string name="descPerro">Fiel, confiable y con un fuerte sentido de la ética, es el animal
+        más noble del Horóscopo Chino. Busca sacar tu creatividad y no te dejes vencer ante las dificultades,
+        sobretodo evitando las quejas y pesimismo..</string>
+    <string name="descChancho">Te verás bendecido en varios aspectos de tu vida y aunque surjan
+        inconvenientes sabrás sobrellevarlos de buena manera lo que traerá equilibrio a tu vida.
+        Si bien no tendrás avances muy significativos en el plano profesional si te mantienes firme
+        al tomar decisiones es muy probable que consigas todo lo que deseas. </string>
+</resources>

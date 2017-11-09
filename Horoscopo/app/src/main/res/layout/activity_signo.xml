@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrador.horoscopo.Signo">
+
+    <LinearLayout
+        android:layout_width="1000dp"
+        android:layout_height="700dp">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="450dp"
+            android:layout_height="570dp"
+            android:background="@color/black"
+            android:paddingLeft="-150dp"
+            android:paddingRight="-90dp"
+            android:src="@drawable/fondo" />
+
+    </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/txtAnimal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="NombreAnimal"
+            android:textColor="@color/white"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:id="@+id/nombreus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.080"
+            android:text="NombreUsuario"
+            android:textColor="@color/white"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/signos"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@color/colorPrimaryDark"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="107dp"
+            tools:layout_editor_absoluteY="66dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.230" />
+
+    <TextView
+        android:id="@+id/descrip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.745"
+        tools:ignore="MissingConstraints" />
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>
